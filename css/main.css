@@ -2,3 +2,13 @@
 	height: 120px;
 
 }
+
+footer{
+	padding: 10px;
+	background-color: blue;
+}
+
+footer p {
+	text-align: center;
+	color: white; 
+}
