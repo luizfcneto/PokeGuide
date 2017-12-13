@@ -2,10 +2,26 @@
 	height: 120px;
 
 }
+header{
+	background-color: #313131;
+}
+
+#imagem1{
+	width: 300px;
+	display: block;
+}
+
+.posts{
+	padding-top: 10px;
+}
+
+.sidenav{
+	background-color: #f5f5f5;
+}
 
 footer{
 	padding: 10px;
-	background-color: blue;
+	background-color: #262626;
 }
 
 footer p {
