@@ -6,13 +6,17 @@ header{
 	background-color: #313131;
 }
 
-#imagem1{
-	width: 300px;
+#imagemPost{
+	width: 250px;
 	display: block;
 }
 
 .posts{
 	padding-top: 10px;
+}
+
+#propagandaMeio{
+
 }
 
 .sidenav{
