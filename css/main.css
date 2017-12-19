@@ -15,8 +15,9 @@ header{
 	padding-top: 10px;
 }
 
-#propagandaMeio{
-
+.pokemonIcon{
+	height: 40px;
+	width: 40px;
 }
 
 .sidenav{
