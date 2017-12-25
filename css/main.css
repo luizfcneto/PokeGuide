@@ -11,6 +11,11 @@ header{
 	float: left;
 }
 
+#imagemPost{
+	
+	float: left;
+}
+
 .posts{
 	padding-top: 10px;
 }
