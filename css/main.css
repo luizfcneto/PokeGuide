@@ -11,10 +11,19 @@ header{
 	float: left;
 }
 
-#imagemPost{
-	
-	float: left;
+#imagemNoticias {
+	width: 150px;
+	height: 150px;
 }
+
+#imagemNoticiaPost1{
+	padding-right: 5px; 
+}
+
+#imagemNoticiaPost2{
+	padding-left: 5px; 
+}
+
 
 .posts{
 	padding-top: 10px;
